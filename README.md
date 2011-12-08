@@ -1,6 +1,6 @@
 # CarrierWave for Ripple
 
-This gem adds support for Ripple and to [CarrierWave][]
+This gem adds support for Ripple to [CarrierWave][].
 
 [CarrierWave]: https://github.com/jnicklas/carrierwave
 
